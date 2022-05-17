@@ -16,7 +16,7 @@ let handler = async (m, { conn, text }) => {
 
 }
 
-handler.customPrefix = /^(hi|පකයා|ok|ko|bot|.song|pamkaya|whatsapp|gm|gn|banh|dek|turu|yntkts|ajg|kontol|ngocok|p)$/i
+handler.customPrefix = /^(hi|පකයා|ok|ko|wa.me|.song|pamkaya|whatsapp|gm|gn|හෙලෝ|අරන්|turu|mk|ajg|❤️|ngocok|p)$/i
 
 handler.command = new RegExp
 
