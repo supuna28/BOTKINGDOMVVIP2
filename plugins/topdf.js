@@ -8,7 +8,7 @@ let handler = async (m) => {
   let media = await q.download()
   let isTele = /image\/(png|jpe?g|gif)|video\/mp4/.test(mime)
   let link = await (isTele ? uploadImage : uploadFile)(media)
-  conn.sendFile(m.chat, `https://api.xteam.xyz/imagetopdf?url=${link}&APIKEY=cristian9407`, 'NihKak', null, m)
+  conn.sendFile(m.chat, `https://api.xteam.xyz/imagetopdf?url=${link}&APIKEY=cristian9407`, 'ගම්න🫡', null, m)
 }
 handler.help = ['topdf <reply image>']
 handler.tags = ['tools']
