@@ -1,7 +1,7 @@
 {
-    "name": "Ebot-md",
+    "name": "botkingdom-md",
     "version": "3.5.4",
-    "description": "Simple Bot WhatsApp with Baileys Multi Device",
+    "description": "Simple Bot WhatsApp",
     "depecrated": false,
     "main": "index.js",
     "directories": {
