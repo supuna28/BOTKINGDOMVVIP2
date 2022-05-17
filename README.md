@@ -1,1 +1,1 @@
-https://heroku.com/deploy?template=https://github.com/supuna28/BOTKINGDOMVIP2
+https://heroku.com/deploy?template=https://github.com/supuna28/BOTKINGDOMVVIP2
