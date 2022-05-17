@@ -10,7 +10,7 @@ const {
 
     generateWAMessageFromContent
 
-  } = require('@danielteodoro/baileys-md')
+  } = require('@adiwajshing/baileys')
 
 const { servers, yta, ytv } = require('../lib/y2mate')
 
