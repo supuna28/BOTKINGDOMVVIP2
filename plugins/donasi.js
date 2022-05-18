@@ -17,8 +17,8 @@ let anu = `*─────� හෙලෝව් 」 ───*
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '📍instagram',
-               url: instagram
+               displayText: '📍Group',
+               url: 'https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV'
              }
 
            },
