@@ -18,7 +18,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
                 		data: bodyForm
             			})
                 		.then(({data}) =>{
-				  m.reply(`*Lagu Ditemukan!*\n\n*Judul* : ${data.data.title}\n*Artist* : ${data.data.artists}\n*Genre* : ${data.data.genre}\n*Album* : ${data.data.album}\n*Release* : ${data.data.release_date}`)
+				  m.reply(`*ගීතය හමු විය!*\n\n*නම* : ${data.data.title}\n*Artist* : ${data.data.artists}\n*Genre* : ${data.data.genre}\n*Album* : ${data.data.album}\n*Release* : ${data.data.release_date}`)
 				}).catch(() => {
 				m.reply('සොයාගත නොහැක')
 				})
