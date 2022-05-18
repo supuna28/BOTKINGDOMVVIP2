@@ -24,7 +24,7 @@ let anu = `*── 「 TIKTOK 」 ──*
            hydratedButtons: [{
              urlButton: {
                displayText: 'Botkingdom',
-               url: supuna.ml
+               url: 'https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV'
                }
                
              },
