@@ -5,7 +5,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
   let q = m.quoted ? m.quoted : m
   let mime = (m.quoted ? m.quoted : m.msg).mimetype || ''
   if (!/video|audio/.test(mime)) throw `ගීතයකට රිප්ලයි කරන්න*`
- m.reply('Wait Ngap, Lagi Cari....')
+ m.reply('ඉම්න ⏩😴..')
 				const bodyForm = new FormData()
 			        bodyForm.append('audio', await q.download(), 'music.mp3')
            			bodyForm.append('apikey', 'caliph_71')
